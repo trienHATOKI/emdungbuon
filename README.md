@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+xin lỗi vì anh bồng bột suy nghĩ:(
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
