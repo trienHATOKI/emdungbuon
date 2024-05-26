@@ -25,8 +25,8 @@
         alt="Picture of a cat"
       />
       <p class="title">
-        emmm choo anhh xinn lỗi 😭<br /><span
-          >em hong chọn hoặc thoát là tha lỗi cho anh đó</span
+        emmm choo anhh xinn lỗi huhu <br /><span
+          >anh biết lỗi rùi a chỉ biết làm được code như này mong em tha lỗi:(( </span
         >
       </p>
       <div class="buttons">
