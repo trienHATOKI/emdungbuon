@@ -30,8 +30,8 @@
         >
       </p>
       <div class="buttons">
-        <button type="button" class="btn btn--yes">Em chấp nhận</button>
-        <button type="button" class="btn btn--no">Không bao giờ</button>
+        <button type="button" class="btn btn--yes">huhuhuhuh</button>
+        <button type="button" class="btn btn--no">huhuhuhu</button>
       </div>
     </main>
 
